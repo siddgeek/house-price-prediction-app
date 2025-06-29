@@ -89,11 +89,5 @@ streamlit run app.py
 - Improve model using hyperparameter tuning
 - Add feature to save predictions
 
----
 
-##
-
----
-
-##
 
